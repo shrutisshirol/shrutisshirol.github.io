@@ -1,8 +1,8 @@
 html {
-    background-image: -webkit-linear-gradient(to right, #b92b27, #1565C0);
-    background-image: -moz-linear-gradient(to right, #b92b27, #1565C0);
-    background-image: -o-linear-gradient(to right, #b92b27, #1565C0);
-    background-image: linear-gradient(to right, #b92b27, #1565C0);
+    background-image: -webkit-linear-gradient(to right, #aa4b6b, #6b6b83, #3b8d99);
+    background-image: -moz-linear-gradient(to right, #aa4b6b, #6b6b83, #3b8d99);
+    background-image: -o-linear-gradient(to right, #aa4b6b, #6b6b83, #3b8d99);
+    background-image: linear-gradient(to right, #aa4b6b, #6b6b83, #3b8d99);
     width: 100%;
     height: auto;
 }
