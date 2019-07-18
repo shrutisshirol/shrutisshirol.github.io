@@ -79,7 +79,7 @@ ul a {
     
 }
 #intro{
-    font-family: 'Patua One',"Times New Roman", Arial, monospace;
+    font-family: 'Roboto',"Times New Roman", Arial, monospace;
    
     font-size: 5em;
 }
@@ -101,7 +101,7 @@ ul a {
     float: left;
 }
 #achieve_discrip{
-    
+    font-family: 'Roboto', 'Times New Roman';
     font-size: 1.5em;
     float: left;
 }
