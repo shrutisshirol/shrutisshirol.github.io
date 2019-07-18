@@ -1,8 +1,6 @@
 html {
-    background-image: -webkit-linear-gradient(to right, #aa4b6b, #6b6b83, #3b8d99);
-    background-image: -moz-linear-gradient(to right, #aa4b6b, #6b6b83, #3b8d99);
-    background-image: -o-linear-gradient(to right, #aa4b6b, #6b6b83, #3b8d99);
-    background-image: linear-gradient(to right, #aa4b6b, #6b6b83, #3b8d99);
+    
+    background-color: #ffffff ;
     width: 100%;
     height: auto;
 }
@@ -34,6 +32,7 @@ body {
     display: block;
     position: relative;
     padding-bottom: 100px;
+    background-color: #000000;
 }
 
 header {
@@ -60,7 +59,7 @@ li {
 
 ul a {
     text-align: center;
-    color: #5c5c5c;
+    color: #000000;
     text-decoration: none;
     font-family: Arial, Helvetica, sans-serif;
     font-size: 1.2em;
@@ -75,7 +74,7 @@ ul a {
     margin-top: 3%;
     width: 15%;
     height: auto;
-    border: 10px solid rgba(255,255,255, 0.5);
+    border: 10px solid rgba(192,192,192, 0.5);
     border-radius: 10px;
     
 }
