@@ -89,12 +89,14 @@ ul a {
     
 }
 #bio{
-    font-family: 'Thasadith';
+    font-family: 'Roboto', 'Times New Roman';
     font-size: 2em;
+    text-align:justify;
+    
 
 }
 #pro_discrip{
-    font-family: 'Thasadith';
+    font-family: 'Roboto', 'Times New Roman';
     font-size: 1.5em;
     float: left;
 }
@@ -147,26 +149,26 @@ main details{
 
 
 #bio a{
-    color: yellow;
+    color: blue;
     transition: 0.5s all;
 
 }
 #bio a:hover{
-    color: white;
+    color: purple;
 }
 #pro_discrip a{
     
-    color: yellow;
+    color: blue;
     transition: 0.5s all;
 }
 #pro_discrip a:hover{
-    color: white;
+    color: purple;
 }
 #achieve_discrip a{
     
-    color: yellow;
+    color: blue;
     transition: 0.5s all;
 }
 #achive_discrip a:hover{
-    color: white;
+    color: purple;
 }
